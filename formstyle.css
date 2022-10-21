@@ -1,0 +1,28 @@
+h1{
+   text-align: center;
+}
+
+body{
+	background-color: #A9A9B0;
+}
+
+div{
+	display: flex;
+	justify-content: center;
+}
+
+video{
+	float: top-right;
+}
+
+.boxmodel{
+	margin: 0px 10px
+}
+
+.boxmodel :hover{
+	cursor: pointer;
+	background-color: #87CEEB;
+    border-width: 5px;
+    border-color: #87CEEB;
+ 
+}
